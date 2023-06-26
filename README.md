@@ -1,6 +1,6 @@
 # findmyhat - Apply Javascript to build a web application (Find Your Hat game) from scratch.
 
-
+To run the application run node main.js in the terminal / command prompt
 1) Requirements
 In the Javascript assessment, you need the following the following requirements:
 
